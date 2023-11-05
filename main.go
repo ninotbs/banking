@@ -1,10 +1,7 @@
 package main
 
-import (
-"github.com/ninotbs/banking/app"
-)
+func Start() {}
 
 func main() {
-	app.Start()
+	Start()
 }
-

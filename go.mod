@@ -1,3 +1,3 @@
-module github.com/ninotbs/banking
+module banking
 
 go 1.19
