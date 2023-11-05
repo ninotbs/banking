@@ -1,6 +1,8 @@
 package main
 
-func Start() {}
+import (
+	"github.com/ninotbs/banking/app"
+)
 
 func main() {
 	Start()
